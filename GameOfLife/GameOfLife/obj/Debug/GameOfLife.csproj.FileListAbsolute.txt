@@ -1,0 +1,10 @@
+D:\Git\WorkRep\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+D:\Git\WorkRep\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+D:\Git\WorkRep\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+D:\Git\WorkRep\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+D:\Git\WorkRep\GameOfLife\GameOfLife\obj\Debug\GameOfLife.MainForm.resources
+D:\Git\WorkRep\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Properties.Resources.resources
+D:\Git\WorkRep\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.GenerateResource.Cache
+D:\Git\WorkRep\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+D:\Git\WorkRep\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
+D:\Git\WorkRep\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Resources.GUIStrings.resources
